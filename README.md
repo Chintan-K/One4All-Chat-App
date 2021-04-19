@@ -1,6 +1,7 @@
 ## Screenshots 
-<img src="https://user-images.githubusercontent.com/60056833/115283351-de1c4f00-a168-11eb-8508-21bf57852103.png"  width="330" height="608" /> <img src="https://user-images.githubusercontent.com/60056833/115283365-e2e10300-a168-11eb-8da3-fd590e514d08.png"  width="330" height="608" /> 
-<img src="https://user-images.githubusercontent.com/60056833/115283380-e83e4d80-a168-11eb-917f-341e6f385a58.png"  width="330" height="608" /> <img src="https://user-images.githubusercontent.com/60056833/115283396-ed9b9800-a168-11eb-8080-0b2f3d4a8c75.png"  width="330" height="608" />
+<img src="https://user-images.githubusercontent.com/60056833/115283351-de1c4f00-a168-11eb-8508-21bf57852103.png"  width="350" height="608" /> <img src="https://user-images.githubusercontent.com/60056833/115283365-e2e10300-a168-11eb-8da3-fd590e514d08.png"  width="350" height="608" /> 
+
+<img src="https://user-images.githubusercontent.com/60056833/115283380-e83e4d80-a168-11eb-917f-341e6f385a58.png"  width="350" height="608" /> <img src="https://user-images.githubusercontent.com/60056833/115283396-ed9b9800-a168-11eb-8080-0b2f3d4a8c75.png"  width="350" height="608" />
 
 ## Getting Started
 
